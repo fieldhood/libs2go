@@ -1,0 +1,3 @@
+package: libs2go
+import:
+- package: github.com/golang/geo
